@@ -1,5 +1,6 @@
 # FPS_SI
-This is a simple prototype in UE 5.3 from mid 2023 which I made in ~20h 
+This is a simple prototype in UE 5.3 from mid 2023 which I made in ~20h.
+The main purpose is to show some cpp code, not the AI part.
 
 Make a first person shooter prototype which includes: 
 1. Player with basic movement and one weapon.
